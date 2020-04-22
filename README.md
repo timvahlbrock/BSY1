@@ -1,3 +1,2 @@
-# Willkommen
-
-... im Repository zum Bestehen des BSY1 Moduls der WHS.
+# BSY1
+Lab tasks for BSY1
